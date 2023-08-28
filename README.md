@@ -37,11 +37,11 @@ npm install
 
 ## Tecnologías Utilizadas
 
-**React**: Biblioteca de JavaScript para la construcción de interfaces de usuario.
-**TypeScript**: Superconjunto tipado de JavaScript.
-**Vite**: Herramienta de desarrollo rápida y optimizada para proyectos web.
-**Material-UI (MUI)**: Librería de componentes de interfaz de usuario para React.
-**Zustand**: Biblioteca para la gestión de estado en aplicaciones React.
-**canvas-confetti**: Librería para crear efectos visuales de confeti en el navegador.
+**-React**: Biblioteca de JavaScript para la construcción de interfaces de usuario.
+**-TypeScript**: Superconjunto tipado de JavaScript.
+**-Vite**: Herramienta de desarrollo rápida y optimizada para proyectos web.
+**-Material-UI (MUI)**: Librería de componentes de interfaz de usuario para React.
+**-Zustand**: Biblioteca para la gestión de estado en aplicaciones React.
+**-canvas-confetti**: Librería para crear efectos visuales de confeti en el navegador.
 
 ¡Diviértete aprendiendo JavaScript y celebrando respuestas correctas con canvas-confetti! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o ponerte en contacto.
