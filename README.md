@@ -28,5 +28,4 @@ npm install
 ## Uso
 
 1. Ejecuta el siguiente comando para iniciar la aplicación:
-   /_ This is a code block _/
-   npm run dev
+   /_ npm run dev _/
