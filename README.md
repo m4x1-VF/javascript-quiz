@@ -1,5 +1,7 @@
 # JavaScript Quizz
 
+![Static Badge](https://img.shields.io/badge/TypeScript-v5.0.2-%232F74C0) ![Static Badge](https://img.shields.io/badge/Status-En%20desarollo-green)
+
 ## Introduccion
 
 Bienvenido a **JavaScript Quizz**, un proyecto interactivo de preguntas y respuestas sobre JavaScript desarrollado utilizando las tecnologías React, TypeScript y Vite. Este proyecto también hace uso de componentes de MUI (Material-UI) para la interfaz de usuario y el estado global se gestiona mediante Zustand. El JSON esta alojado en [JSOBIN](http://https://jsonbin.io/) y hace de API del proyecto. ¡Y para añadir un toque de diversión, hemos integrado la librería canvas-confetti para celebrar las respuestas correctas!
