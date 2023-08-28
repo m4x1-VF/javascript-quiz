@@ -28,4 +28,7 @@ npm install
 ## Uso
 
 1. Ejecuta el siguiente comando para iniciar la aplicación:
-   /_ npm run dev _/
+
+```bash
+ npm run dev
+```
