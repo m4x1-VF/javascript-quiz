@@ -1,27 +1,32 @@
-# React + TypeScript + Vite
+# JavaScript Quizz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduccion
 
-Currently, two official plugins are available:
+Bienvenido a **JavaScript Quizz**, un proyecto interactivo de preguntas y respuestas sobre JavaScript desarrollado utilizando las tecnologías React, TypeScript y Vite. Este proyecto también hace uso de componentes de MUI (Material-UI) para la interfaz de usuario y el estado global se gestiona mediante Zustand. ¡Y para añadir un toque de diversión, hemos integrado la librería canvas-confetti para celebrar las respuestas correctas!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Características
 
-## Expanding the ESLint configuration
+- Amplia colección de preguntas y respuestas relacionadas con JavaScript.
+- Interfaz de usuario intuitiva y atractiva utilizando componentes de MUI.
+- Gestión eficiente del estado global de la aplicación a través de Zustand.
+- Efectos visuales divertidos gracias a canvas-confetti al responder correctamente.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Capturas de Pantalla
 
-- Configure the top-level `parserOptions` property like this:
+![Pregunta](/public/Captura%20desde%202023-08-28%2015-49-43.png)
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+## Instalación
+
+1. Clona este repositorio a tu máquina local.
+2. Abre una terminal y navega hasta el directorio del proyecto.
+3. Ejecuta el siguiente comando para instalar las dependencias:
+
+```bash
+npm install
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Uso
+
+1. Ejecuta el siguiente comando para iniciar la aplicación:
+   /_ This is a code block _/
+   npm run dev
