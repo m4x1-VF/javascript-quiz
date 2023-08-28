@@ -32,7 +32,8 @@ Bienvenido a **JavaScript Quizz**, un proyecto interactivo de preguntas y respue
 
 1. Clona este repositorio a tu máquina local.
 2. Abre una terminal y navega hasta el directorio del proyecto.
-3. Ejecuta el siguiente comando para instalar las dependencias:
+3. Abre el proyecto con tu editor de codigo favorito.
+4. Ejecuta el siguiente comando para instalar las dependencias:
 
 ```bash
 npm install
