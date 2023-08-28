@@ -1,6 +1,6 @@
 # JavaScript Quizz
 
-![Static Badge](https://img.shields.io/badge/TypeScript-v5.0.2-%232F74C0) ![Static Badge](https://img.shields.io/badge/Status-En%20desarollo-green)
+![Static Badge](https://img.shields.io/badge/Status-En%20desarollo-green) ![Static Badge](https://img.shields.io/badge/TypeScript-v5.0.2-%232F74C0)
 
 ## Introduccion
 
