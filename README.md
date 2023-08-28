@@ -11,7 +11,7 @@ Bienvenido a **JavaScript Quizz**, un proyecto interactivo de preguntas y respue
 - Gestión eficiente del estado global de la aplicación a través de Zustand.
 - Efectos visuales divertidos gracias a canvas-confetti al responder correctamente.
 
-## Capturas de Pantalla
+## Captura de Pantalla
 
 ![Pregunta](/public/Captura%20desde%202023-08-28%2015-49-43.png)
 
@@ -32,3 +32,16 @@ npm install
 ```bash
  npm run dev
 ```
+
+2. Abre tu navegador web y visita http://localhost:5173 para interactuar con el quizz.
+
+## Tecnologías Utilizadas
+
+**React**: Biblioteca de JavaScript para la construcción de interfaces de usuario.
+**TypeScript**: Superconjunto tipado de JavaScript.
+**Vite**: Herramienta de desarrollo rápida y optimizada para proyectos web.
+**Material-UI (MUI)**: Librería de componentes de interfaz de usuario para React.
+**Zustand**: Biblioteca para la gestión de estado en aplicaciones React.
+**canvas-confetti**: Librería para crear efectos visuales de confeti en el navegador.
+
+¡Diviértete aprendiendo JavaScript y celebrando respuestas correctas con canvas-confetti! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o ponerte en contacto.
