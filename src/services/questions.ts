@@ -4,7 +4,7 @@ export const getAllQuestions = async () => {
     import.meta.env.VITE_X_ACCESS_KEY
   }`;
   const res = await fetch(
-    "https://api.jsonbin.io/v3/b/64eba59db89b1e2299d6bc14",
+    "https://api.jsonbin.io/v3/b/64f10aa8d972192679bcd358",
     {
       headers: {
         "X-Master-Key": masterKey,

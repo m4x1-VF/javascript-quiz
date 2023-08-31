@@ -1,9 +1,10 @@
 import { Container, Stack, Typography } from "@mui/material";
-import { JavaScriptLogo } from "./JavaScriptLogo";
-import "./App.css";
-import Start from "./Start";
+import { FerrariLogo } from "./FerrariLogo";
+import { Formula1Logo } from "./Formula1Logo";
 import { useQuestionsStore } from "./Store/questions";
+import Start from "./Start";
 import Game from "./components/Game";
+import "./App.css";
 
 function App() {
   const questions = useQuestionsStore((state) => state.questions);
@@ -18,10 +19,11 @@ function App() {
           alignItems="center"
           justifyContent="center"
         >
-          <JavaScriptLogo />
-          <Typography variant="h2" component="h1">
-            JavaScript Quizz
+          <FerrariLogo />
+          <Typography variant="h4" component="h1">
+            Formula 1 & Ferrari Quizz
           </Typography>
+          <Formula1Logo />
         </Stack>
         {questions.length === 0 && <Start />}
         {questions.length > 0 && <Game />}
